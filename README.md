@@ -22,6 +22,14 @@ First, no sensors are active. Then I press the button for the crosswalk, then th
 
 ![video](img/video.gif)
 
-South light is green and west light and crosswalk lights are red.
+West light is green, and south and crosswalk lights are red.
 
 ![image3](img/image3.jpeg)
+
+South light is yellow, and west and crosswalk lights are red.
+
+![image3](img/image5.jpeg)
+
+Crosswalk light is green, and west and south lights are red.
+
+![image3](img/image4.jpeg)
